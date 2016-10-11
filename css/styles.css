@@ -22,3 +22,21 @@ nav li a {
 
 nav li a:hover, nav li a.current {
   color: #000000;}
+
+article.image_tiles {
+  float: left;
+  width: 470px;
+  border: 1px solid #000000;}
+
+article#Bar_Soap_Tile {
+  clear:left;}
+article#Liquid_Soap_Tile {
+  clear:right;}
+article#Boutique_Soap_Tile {
+    clear:left;}
+article#Hand_Sanitizer_Tile{
+  clear:right;}
+
+h2 {
+
+}
