@@ -48,6 +48,12 @@ article#Hand_Sanitizer_Tile{
   clear:right;
   float: right;}
 
+img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+
 body {
   background-color: #7dd2c5;
   font-family: 'Open Sans', sans-serif;
