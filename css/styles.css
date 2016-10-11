@@ -23,6 +23,10 @@ nav li a {
 nav li a:hover, nav li a.current {
   color: #7dd2c5;}
 
+a {
+  text-decoration: none;
+}
+
 article.image_tiles {
   width: 420px;
   height: 400px;
