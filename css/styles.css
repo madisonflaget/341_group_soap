@@ -55,12 +55,13 @@ body {
 
 h1 {
   color: #ffffff;
-  font-family: 'Homemade Apple', cursive;
-  font-size: 200%
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
 }
 
 .header {
   background-color: #007DC2;
+  clear: both;
 }
 
 h2 {
